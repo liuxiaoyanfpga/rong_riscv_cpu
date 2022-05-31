@@ -1,6 +1,6 @@
 # 前言
 
-![1653982568138](imge/1653982568138.png)
+![image](https://user-images.githubusercontent.com/105595411/171119286-4bbff1dd-8c62-4f4f-a248-b4ba08487b90.png)
 
 学习该项目的目标：
 
